@@ -7,5 +7,8 @@
 * Big Data: Where Does It Come From?
 
 ## week2
+* Characteristics of Big Data 
+* Defining the Question
+* The Process of Data Analysis
 
 ## week3
