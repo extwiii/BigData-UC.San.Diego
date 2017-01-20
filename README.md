@@ -1,6 +1,14 @@
 # BigData-UC.San.Diego
 Unlock Value in Massive Datasets - UC San Diego - Coursera
 
+## Course 1 - Introduction to Big Data
+* Welcome
+* Big Data: Why and Where
+* Characteristics of Big Data and Dimensions of Scalability
+* Data Science: Getting Value out of Big Data
+* Foundations for Big Data Systems and Programming
+* Systems: Getting Started with Hadoop
+
 ### Rating     :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon:
 
