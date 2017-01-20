@@ -12,3 +12,7 @@
 * The Process of Data Analysis
 
 ## week3
+* Basic Scalable Computing Concepts
+* Getting Started with Hadoop
+* Hands On: Downloading and Installing Hadoop
+* Hands On: Running your First Application on Hadoop
