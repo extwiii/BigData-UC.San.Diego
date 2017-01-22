@@ -9,7 +9,7 @@ Unlock Value in Massive Datasets - UC San Diego - Coursera
 * Foundations for Big Data Systems and Programming
 * Systems: Getting Started with Hadoop
 
-## Course 2 - 
+## Course 2 - Big Data Modeling and Management Systems
 
 ### Rating     :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon:
