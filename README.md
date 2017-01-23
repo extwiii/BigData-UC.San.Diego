@@ -15,7 +15,7 @@ Unlock Value in Massive Datasets - UC San Diego - Coursera
 * Big Data Modeling (Part 2)
 * Working With Data Models
 * Big Data Management: The "M" in DBMS
-* Designing a Big Data Management System for an Online Game
+
 
 ### Rating     :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon:
