@@ -17,3 +17,5 @@
 * Working with Streaming Data
 
 ## week5
+* Why Data Management?
+* From DBMS to BDMS
