@@ -16,6 +16,14 @@ Unlock Value in Massive Datasets - UC San Diego - Coursera
 * Working With Data Models
 * Big Data Management: The "M" in DBMS
 
+## Course 3 - Big Data Integration and Processing
+* Welcome to Big Data Integration and Processing
+* Retrieving Big Data (Part 1)
+* Retrieving Big Data (Part 2)
+* Big Data Integration
+* Processing Big Data
+* Big Data Analytics using Spark
+
 
 ### Rating     :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon:
