@@ -24,6 +24,8 @@ Unlock Value in Massive Datasets - UC San Diego - Coursera
 * Processing Big Data
 * Big Data Analytics using Spark
 
+## Course 4 - Machine Learning With Big Data
+
 
 ### Rating     :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon:
