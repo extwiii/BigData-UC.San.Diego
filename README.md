@@ -28,6 +28,9 @@ Unlock Value in Massive Datasets - UC San Diego - Coursera
 * Introduction to Machine Learning with Big Data
 * Data Exploration
 * Data Preparation
+* Classification
+* Evaluation of Machine Learning Models
+* Regression, Cluster Analysis, and Association Analysis
 
 
 ### Rating     :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon:
