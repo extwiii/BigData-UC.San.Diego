@@ -15,5 +15,10 @@
 * Classification Algorithms
 
 ## week4
+* Overfitting: What is it and how would you prevent it?
+* Model evaluation metrics and methods
 
 ## week5
+* Regression
+* Cluster Analysis
+* Association Analysis
