@@ -7,8 +7,12 @@
 * Scalability and Tools
 
 ## week2
+* Data Exploration
+* Data Preparation for Machine Learning
 
 ## week3
+* What is Classification?
+* Classification Algorithms
 
 ## week4
 
