@@ -32,6 +32,13 @@ Unlock Value in Massive Datasets - UC San Diego - Coursera
 * Evaluation of Machine Learning Models
 * Regression, Cluster Analysis, and Association Analysis
 
+## Course 5 - Graph Analytics for Big Data
+* Welcome to Graph Analytics
+* Introduction to Graphs
+* Graph Analytics
+* Graph Analytics Techniques
+* Computing Platforms for Graph Analytics
+
 
 ### Rating     :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon:
