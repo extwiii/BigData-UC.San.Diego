@@ -39,6 +39,10 @@ Unlock Value in Massive Datasets - UC San Diego - Coursera
 * Graph Analytics Techniques
 * Computing Platforms for Graph Analytics
 
+#### Taught by: 
+* Ilkay Altintas - Chief Data Science Officer
+* Amarnath Gupta - Director, Advanced Query Processing Lab
+* Mai Nguyen - Lead for Data Analytics
 
 ### Rating     :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon:
